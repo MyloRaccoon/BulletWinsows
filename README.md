@@ -15,16 +15,4 @@ cytes
 multiprocessing
 pygame
 
-
-
-
-
-
-
-
-
-
-
-
-
-winsows
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>winsows
