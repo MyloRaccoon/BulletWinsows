@@ -14,3 +14,17 @@ pyGetWindows
 cytes
 multiprocessing
 pygame
+
+
+
+
+
+
+
+
+
+
+
+
+
+winsows
